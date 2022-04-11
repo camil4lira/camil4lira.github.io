@@ -86,9 +86,6 @@ li a {
   transition: .5s ease-in-out;
 }
 
-li:hover{
-  background-color: #438fdf;
-}
- a:hover{
+li a:hover{
   background-color: #438fdf;
 }
